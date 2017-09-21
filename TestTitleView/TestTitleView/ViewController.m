@@ -18,10 +18,6 @@
 #define FONTSYSTEM(s) [UIFont fontWithName:@"Heiti SC" size:s]
 #endif
 
-@interface ViewController ()
-
-@end
-
 @implementation ViewController
 
 - (void)viewDidLoad {
